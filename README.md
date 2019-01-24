@@ -36,7 +36,7 @@ Get currency list:
  
 Calculate currency from:
 ```
- CurrencyConverter.calculate(10, "BRL", "USD", new CurrencyConverter.Callback() {
+ CurrencyConverter.calculate(10, "BDT", "USD", new CurrencyConverter.Callback() {
             @Override
             public void onValueCalculated(Double value, Exception e) {
                 if (e != null) {
