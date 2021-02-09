@@ -55,7 +55,3 @@ Reset data if necessary:
  CurrencyConverter.reset();
 ```
 
-# Donation
-
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/S6S8JJNM)
-
